@@ -1,6 +1,6 @@
 # Kinectable
 
-TODO: Write a gem description
+The kinectable gem implements a simple DSL for using a Kinect to recognize gestures.
 
 ## Installation
 
